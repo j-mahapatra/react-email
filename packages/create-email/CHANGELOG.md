@@ -1,5 +1,11 @@
 # create-email
 
+## 0.1.0-canary.6
+
+### Minor Changes
+
+- c4d3bcb: Move "react-email" package to devDependencies for the template
+
 ## 0.0.35-canary.5
 
 ## 0.0.35-canary.4
